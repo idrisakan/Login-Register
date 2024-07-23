@@ -1,8 +1,8 @@
-#lOGİN
+# lOGİN
 
 Html ve css kullanılarak geliştirilmiş basit bir login uygulamasıdır 
 
 
 - Ekran görünümü
 
-<img src='login.gif' /># Login-Register
+<img src='login.gif' />
